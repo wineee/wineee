@@ -1,4 +1,6 @@
 ### Hi there 👋
+No one does when they begin, ideas don't come out fully formed. They only become clear as you work on them. You just have to get started.
+
 
 <!--
 **wineee/wineee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
