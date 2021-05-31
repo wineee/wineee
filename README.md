@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Nano.</h2>
+<h2 align="center">👋 Hello! I'm rewine.</h2>
 <p align="center">
   <a href="https://wineee.github.io">
   Blog · 
