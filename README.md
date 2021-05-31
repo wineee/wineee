@@ -1,5 +1,13 @@
-### Hi there 👋
-No one does when they begin, ideas don't come out fully formed. They only become clear as you work on them. You just have to get started.
+<h2 align="center">👋 Hello! I'm Nano.</h2>
+<p align="center">
+  <a href="https://wineee.github.io">
+  Blog · 
+  </a>
+  <a href="https://t.me/rewine">
+  Telegram
+  </a>
+</p>
+
 
 
 <!--
