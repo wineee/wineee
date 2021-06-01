@@ -8,6 +8,8 @@
   </a>
 </p>
 
+- Former OIer/ICPCer，have deep affection for Data Structure and Programming Language Theory
+- I’m a fan of [🖥️](https://fsfs-zh.readthedocs.io)Richard Stallman  🚀Robert Tarjan  🎵Che Guevara 🎬Jiang Wen
 
 
 <!--
