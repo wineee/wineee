@@ -8,8 +8,6 @@
   </a>
 </p>
 
-- ~~Former OIer/ICPCer，have affection to Data Structure and Programming Language Theory~~
-- I’m a fan of [🖥️](https://fsfs-zh.readthedocs.io)Richard Stallman  🚀Robert Tarjan  🎵Joe Hisaishi 🎬Jiang Wen
 
 
 <!--
@@ -25,6 +23,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ~~Former OIer/ICPCer，have affection to Data Structure and Programming Language Theory~~
+- I’m a fan of [🖥️](https://fsfs-zh.readthedocs.io)Richard Stallman  🚀Robert Tarjan  🎵Joe Hisaishi 🎬Jiang Wen
+
 -->
 
 [![betta's github stats](https://github-readme-stats.vercel.app/api?username=wineee&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
